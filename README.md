@@ -1,30 +1,50 @@
-# Linux Apprenticeship with AI
+# ⚡ Storm Journey
 
-This is a living record of a self-directed Linux apprenticeship guided by ChatGPT (AI), showcasing an evolving journey in Linux system administration, security hardening, desktop customization, and creative scripting.
+Welcome to the **self-directed Linux learning journey** of Douglas K. Childers (aka **Corban Storm**), a mathematician and researcher turned hacker-errant.
 
-## 🔍 What This Project Is
-An experimental, transparent, and creative learning experience blending:
-- Fedora KDE system setup and recovery
-- Sysctl tuning and kernel hardening
-- Display and GPU configuration (NVIDIA → AMD transition)
-- Bash scripting with systemd user services
-- Medieval-themed UI design and splash screen animation
-- Custom startup automation and terminal effects
-- Resume generation using LaTeX, icons, and Linux-native tools
+This project is part experimental lab, part personal portfolio — a record of my ongoing exploration into Linux system administration, security hardening, scripting, and customization.
 
-## 📂 Project Structure
-- `resume/`: LaTeX resume + build script
-- `scripts/`: Display configs, splash screen toggles, startup automation
-- `systemd/`: (Coming soon) User service files
-- `notes_journal/`: (Optional) Progress journal or config logs
+---
 
-## 🧙 Who Did This?
-Douglas K. Childers, Ph.D. — applied mathematician and Linux adventurer.  
-ChatGPT — AI co-mentor, shieldsman, and companion scribe.
+## 📄 [View My Resume (PDF)](./resume.pdf)
 
-## 🚀 Goals
-- Show that a self-taught Linux path is viable and creative
-- Build and document real tools, configs, and startup scripts
-- Inspire others to try building with AI instead of just asking it questions
+---
 
-> This is more than a resume — it's a story.
+## 🗂️ Project Modules
+
+Each script group is its own themed forge, complete with README and battle tools:
+
+- 🧠 [GPU Troubleshooting Scripts](scripts/gpu-fix/)
+    - Switch between Intel and AMD drivers
+    - Troubleshooting legacy GPU issues
+- 🛡️ [Kernel Hardening Configs](scripts/z-hardened/)
+    - Hardened sysctl configurations for improved security
+    - Multiple hardened `.conf` variants
+- 🎛️ [Monitor Tools (Legacy)](scripts/monitor-tools/)
+    - Tuning and startup fixes for dual-monitor setups
+- 🏗️ [Resume Builder](scripts/resume-builder/)
+    - LaTeX resume build scripts and supporting files
+
+---
+
+## 🧙 About the Author
+
+Douglas K. Childers, Ph.D.  
+- 🧬 Published researcher in genetics, dynamics, and modeling  
+- 🐧 Linux adventurer documenting real-world system mastery  
+- 🛠️ Projects built and debugged with ChatGPT as co-mentor
+
+---
+
+## 🔮 Future Directions
+
+- Full automated installer and system hardening toolkit
+- Kvantum/Plasma theme rotator (because knights need armor changes)
+- GitHub Action for automatic PDF resume builds
+- Shell script collection for terminal sorcery
+
+---
+
+## 🏴‍☠️ License
+
+This repository is licensed under the [MIT License](./LICENSE).
