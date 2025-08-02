@@ -6,7 +6,7 @@ This project is part experimental lab, part personal portfolio — a record of m
 
 ---
 
-## 📄 [View My Resume (PDF)](./resume.pdf)
+## 📄 [View My Resume (PDF)](./childers_resume_medieval.pdf)
 
 ---
 
