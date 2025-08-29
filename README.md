@@ -1,50 +1,46 @@
-# ⚡ Storm Journey
+🌩️ storm-journey
+A self-directed Linux/sysadmin learning archive and project portfolio.
+This repo documents my journey from first scripts and experiments to building practical, job-ready Linux and security skills.
 
-Welcome to the **self-directed Linux learning journey** of Douglas K. Childers (aka **Corban Storm**), a mathematician and researcher turned hacker-errant.
 
-This project is part experimental lab, part personal portfolio — a record of my ongoing exploration into Linux system administration, security hardening, scripting, and customization.
+📂 Repository Structure
+storm-journey/
+├─ scripts/   # Bash and automation scripts from weekly assignments
+├─ drills/    # Practice exercises (files, logs, mini projects)
+├─ notes/     # Study notes, cheat sheets, syllabus
+└─ README.md  # This file
 
----
 
-## 📄 [View My Resume (PDF)](./childers_resume_medieval.pdf)
+🗝️ Highlights
+* notes/syllabus.md → Month 1 study plan with weekly goals + daily drills.
+* scripts/feedback-week → Script to generate structured weekly feedback logs.
+* scripts/reduxdog → Security/monitoring exercise script.
+* notes/git-cheatsheet.md → My personal Git quick reference.
+* notes/git-undo.md → Undo/recovery workflows (because mistakes happen).
 
----
 
-## 🗂️ Project Modules
+🚀 How to Use
+Clone this repo:
+git clone https://github.com/Corban-Storm/storm-journey.git
+cd storm-journey
 
-Each script group is its own themed forge, complete with README and battle tools:
+Run scripts (don't forget permissions):
+./scripts/feedback-week
+./scripts/reduxdog
 
-- 🧠 [GPU Troubleshooting Scripts](scripts/gpu-fix/)
-    - Switch between Intel and AMD drivers
-    - Troubleshooting legacy GPU issues
-- 🛡️ [Kernel Hardening Configs](scripts/z-hardened/)
-    - Hardened sysctl configurations for improved security
-    - Multiple hardened `.conf` variants
-- 🎛️ [Monitor Tools (Legacy)](scripts/monitor-tools/)
-    - Tuning and startup fixes for dual-monitor setups
-- 🏗️ [Resume Builder](scripts/resume-builder/)
-    - LaTeX resume build scripts and supporting files
 
----
+🎯 Purpose
+* Build Linux administration skills through hands-on projects.
+* Document learning with notes, cheat sheets, and reflective feedback.
+* Create a portfolio of practical sysadmin/security work.
+This repo is part of my broader Carnutan Initiative, blending education, Linux projects, and creative writing.
 
-## 🧙 About the Author
 
-Douglas K. Childers, Ph.D.  
-- 🧬 Published researcher in genetics, dynamics, and modeling  
-- 🐧 Linux adventurer documenting real-world system mastery  
-- 🛠️ Projects built and debugged with ChatGPT as co-mentor
+🛠️ Roadmap
+* ✅ Month 1: Core Linux, Git basics, first automation scripts
+* 🔜 Month 2: Networking deep dive, service hardening, advanced Bash
+* 🔮 Future: Python automation, monitoring stack, cloud/containers
 
----
 
-## 🔮 Future Directions
+⚔️ *This isn’t just a repo — it’s my **Quadrivium**.*
 
-- Full automated installer and system hardening toolkit
-- Kvantum/Plasma theme rotator (because knights need armor changes)
-- GitHub Action for automatic PDF resume builds
-- Shell script collection for terminal sorcery
-
----
-
-## 🏴‍☠️ License
-
-This repository is licensed under the [MIT License](./LICENSE).
