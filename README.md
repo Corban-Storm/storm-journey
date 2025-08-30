@@ -19,23 +19,26 @@ storm-journey/
 * notes/git-undo.md → Undo/recovery workflows (because mistakes happen).
 <br>
 <br>
-🚀 **How to Use** --> Clone this repo:
+🚀**How to Use** 
+<br>
+ Clone this repo:
 <br>
 <br>
 git clone https://github.com/Corban-Storm/storm-journey.git  
 cd storm-journey  
 <br>
 <br>
-Run scripts (don't forget permissions):  
-./scripts/feedback-week  
+Run scripts (don't forget permissions):<br>
+./scripts/feedback-week <br>
 ./scripts/reduxdog  
 <br>
 <br>
-🎯 Purpose
+<br>
+🎯** Purpose**
 * Build Linux administration skills through hands-on projects.
 * Document learning with notes, cheat sheets, and reflective feedback.
-* Create a portfolio of practical sysadmin/security work.  
-  
+* Create a portfolio of practical sysadmin/security work.
+<br>
 This repo is part of my broader Carnutan Initiative, blending education, Linux projects, and creative writing.
 <br>
 <br>
@@ -47,7 +50,6 @@ This repo is part of my broader Carnutan Initiative, blending education, Linux p
 <br>
 <br>
 
----
 
 <hr style="border: 1px solid #444;">
 
