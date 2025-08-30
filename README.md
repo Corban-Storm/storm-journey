@@ -19,11 +19,13 @@ storm-journey/
 * notes/git-undo.md → Undo/recovery workflows (because mistakes happen).
 <br>
 <br>
-🚀**How to Use** --> Clone this repo:
+🚀 **How to Use** --> Clone this repo:
+<br>
 <br>
 git clone https://github.com/Corban-Storm/storm-journey.git  
 cd storm-journey  
-  
+<br>
+<br>
 Run scripts (don't forget permissions):  
 ./scripts/feedback-week  
 ./scripts/reduxdog  
@@ -37,16 +39,14 @@ Run scripts (don't forget permissions):
 This repo is part of my broader Carnutan Initiative, blending education, Linux projects, and creative writing.
 <br>
 <br>
+<br>
 🛠️ Roadmap
 * ✅ Month 1: Core Linux, Git basics, first automation scripts
 * 🔜 Month 2: Networking deep dive, service hardening, advanced Bash
 * 🔮 Future: Python automation, monitoring stack, cloud/containers  
 <br>
 <br>
-<br>
-<br>
-⚔️ *This isn’t just a repo — it’s my **Quadrivium**.*
-<br>
+
 ---
 
 <hr style="border: 1px solid #444;">
