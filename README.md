@@ -1,7 +1,7 @@
 # 🌩️ **storm-journey**
 
 *A self-directed Linux/sysadmin learning archive and project portfolio.*<br>
-This repo documents my journey from first scripts and experiments to building practical, job-ready Linux and security skills.<br>
+This repo documents my journey from first scripts and experiments to building practical, job-ready Linux and security skills.
 
 <br>
 <br>
