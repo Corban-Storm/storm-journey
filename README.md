@@ -40,7 +40,6 @@ Run scripts (don't forget permissions)<br>
 
 <br>
 <br>
-<br>
 
 🎯 **Purpose**
 
